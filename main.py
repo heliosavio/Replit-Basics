@@ -1,5 +1,9 @@
 import pandas
 import calculate
 
-print("I'm calculating...")
-print(calculate.x)
+def calculate_number(x):
+  return x * x
+
+print(calculate.msg)
+print(calculate_number(10))
+

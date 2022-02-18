@@ -1,1 +1,1 @@
-x = 10
+msg = "Let's calculate something"
